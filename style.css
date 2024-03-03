@@ -18,12 +18,12 @@ body{
     height: 400px;
     width: 350px;
     border-radius: 16px;
-    background: #FFCCFF;
+    background: #FFCCCC;
 }
 
 .wrapper{
     background: #fff;
-    height: 350px;
+    height: 400px;
     width: 350px;
     border-radius: 16px;
 
@@ -87,6 +87,7 @@ body{
 }
 .wrapperlog{
     background: #fff;
+    height: 340px;
     width: 350px;
     border-radius: 16px;
 
